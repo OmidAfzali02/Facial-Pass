@@ -1,4 +1,4 @@
-his app is like face recognition that smart phones use to confirm that it's you who wants to access the phone.
+- This app is like face recognition that smart phones use to confirm that it's you who wants to access the phone.
 - I have trained an Artificial Neural Network Model with a dataset of my own pictures to recognize my face.
 - Then I implemented the model to an app that can recognize my face from either a picture or webcam.
 - The libraries and modules used is:
