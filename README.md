@@ -10,4 +10,4 @@
 - We can also train a model based on someone elses face.
 - Reminder: a folder name 'complete_saved_model4' is needed to run the app with the size of around 800MB.
 - The link to download the model is inside the program which can be downloaded automaticaly or manuly using wget library to download it.
-- A video of the program performance shall be presented.
+- A video of the program performance shall be presented. # Rec 0009.mp4
