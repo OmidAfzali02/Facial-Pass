@@ -6,6 +6,7 @@
 					TensorFlow
 					OpenCV
 					NumPy
+					
 - Since the model is designed for my face only, this program is not open source thus the code shall not be revealed.
 - We can also train a model based on someone elses face.
 - Reminder: a folder name 'complete_saved_model4' is needed to run the app with the size of around 800MB.
